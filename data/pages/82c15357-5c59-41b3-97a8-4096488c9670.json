@@ -3,10 +3,10 @@
   "created_at": "2025-05-14T19:04:05.372Z",
   "created_by": "yshorish",
   "title": "Boston Usability Test 4",
-  "updated_at": "2025-05-15T17:50:30.812Z",
+  "updated_at": "2025-05-15T17:50:34.568Z",
   "updated_by": "yshorish",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
