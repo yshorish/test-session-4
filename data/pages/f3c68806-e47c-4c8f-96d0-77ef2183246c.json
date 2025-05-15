@@ -4,12 +4,11 @@
   "created_by": "yshorish",
   "title": "Theoretical Theatre",
   "slug": "theoretical-theatre",
-  "updated_at": "2025-05-15T17:48:33.768Z",
+  "updated_at": "2025-05-15T17:49:39.316Z",
   "updated_by": "yshorish",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "720d8ab5-0252-46d4-a5f9-19c33409e71d"
-  },
-  "parent": "82c15357-5c59-41b3-97a8-4096488c9670"
+  }
 }
