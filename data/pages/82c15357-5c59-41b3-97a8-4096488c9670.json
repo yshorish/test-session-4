@@ -99,20 +99,12 @@
           ]
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "created_at": "2025-05-14T19:04:05.372Z",
   "created_by": "yshorish",
   "title": "Boston Usability Test 4",
-  "updated_at": "2025-05-15T17:53:03.284Z",
+  "updated_at": "2025-05-15T17:53:45.351Z",
   "updated_by": "yshorish",
   "autogenerate": {
     "enabled": false,
