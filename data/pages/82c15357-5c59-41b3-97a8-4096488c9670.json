@@ -1,9 +1,75 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "720d8ab5-0252-46d4-a5f9-19c33409e71d",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-05-14T19:04:05.372Z",
   "created_by": "yshorish",
   "title": "Boston Usability Test 4",
-  "updated_at": "2025-05-15T17:50:34.568Z",
+  "updated_at": "2025-05-15T17:51:16.066Z",
   "updated_by": "yshorish",
   "autogenerate": {
     "enabled": false,
